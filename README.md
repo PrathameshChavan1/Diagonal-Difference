@@ -43,6 +43,8 @@ The secondary diagonal is:
 10 
 ```
 Sum across the secondary diagonal: 4 + 5 + 10 = 19 
+
 Difference: |4 - 19| = 15
 
-### Note: |x| is absolute value function
+### Note: 
+|x| is absolute value function
