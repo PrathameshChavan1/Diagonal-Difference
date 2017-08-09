@@ -6,15 +6,15 @@ Given a square matrix of size N x N , calculate the absolute difference between 
 The first line contains a single integer, N . 
 The next N lines denote the matrix's rows, with each line containing N space-separated integers describing the columns.
 
-# Constraints 
+## Constraints 
 ```
 -100 <= Elements in the Matrix <= 100
 ```
-# Output Format
+## Output Format
 
 Print the absolute difference between the two sums of the matrix's diagonals as a single integer.
 
-# Sample Input
+## Sample Input
 
 ```
 3 
@@ -22,11 +22,11 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 4 5 6
 10 8 -12 
 ```
-# Sample Output
+## Sample Output
 ```
 15
 ```
-# Explanation
+## Explanation
 
 The primary diagonal is:  
 ```
@@ -45,4 +45,4 @@ The secondary diagonal is:
 Sum across the secondary diagonal: 4 + 5 + 10 = 19 
 Difference: |4 - 19| = 15
 
-# Note: |x| is absolute value function
+### Note: |x| is absolute value function
